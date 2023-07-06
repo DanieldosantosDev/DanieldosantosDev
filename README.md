@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanieldosantosDev
-- 👀 I’m interested in  Java
-- 🌱 I’m currently learning  fundamentos métodos e controle em java
-- 💞️ I’m looking to collaborate on  tudo que aprender sobre java
+- 👀 I’m interested in  Java and Angular
+- 🌱 I’m currently learning  Angular with Spring Boot
 - 📫 How to reach me ... denieldossantoos@gmail.com
 
 <!---
